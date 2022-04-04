@@ -1,1 +1,1 @@
-https://inluxstudio.github.io/pano/
+https://inluxstudio.github.io/page
