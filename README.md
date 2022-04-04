@@ -1,1 +1,1 @@
-# pano
+https://inluxstudio.github.io/pano/
