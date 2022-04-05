@@ -16,7 +16,7 @@ p {
 }
 
 img {
-	width: 720px;
-	min-width: 480px;
+	width: 480px;
+	/* min-width: 480px; */
 	height: auto;
 }
