@@ -1,6 +1,6 @@
 .container {
-	width: 80%;
-	margin: 30px auto;
+	width: 90%;
+	margin: 20px auto;
 	overflow: hidden;
 }
 
@@ -8,8 +8,8 @@
 	list-style: none;
 	float: left;
 	font: 10px/1.5 Verdana, Helvetica, Sans-serif;
-	width: 16%;
-	margin: 2% 2% 40px 2%;
+	width: 20%;
+	margin: 2% 2% 60px 2%;
 }
 
 .container ul li a {
@@ -18,10 +18,12 @@
 
 .container ul li a img {
 	max-width: 100%;
+/*   border: 1px solid #5d5f5d;
+  padding: 20px; */
 }
 
 @media only screen and (min-width : 941px) {
-	.container ul li:nth-child(5n+1) {
+	.container ul li:nth-child(4n+1) {
 		clear: left;
 	}
 
@@ -30,10 +32,10 @@
 @media only screen and (min-width: 721px) and (max-width : 941px) {
 
 	.container ul li {
-		width: 21%;
+		width: 29%;
 	}
 
-	.container ul li:nth-child(4n+1) {
+	.container ul li:nth-child(3n+1) {
 		clear: left;
 	}
 
@@ -45,10 +47,10 @@
 @media only screen and (min-width: 531px) and (max-width : 721px) {
 
 	.container ul li {
-		width: 29.33333%
+		width: 43%
 	}
 
-	.container ul li:nth-child(3n+1) {
+	.container ul li:nth-child(2n+1) {
 		clear: left;
 	}
 
@@ -57,10 +59,10 @@
 @media only screen and (min-width: 320px) and (max-width : 531px) {
 
 	.container ul li {
-		width: 46%
+		width: 90%
 	}
 
-	.container ul li:nth-child(2n+1) {
+	.container ul li:nth-child(1n+1) {
 		clear: left;
 	}
 
